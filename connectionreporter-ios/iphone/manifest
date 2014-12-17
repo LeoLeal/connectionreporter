@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: connectionreporter-ios
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: connectionreporter-ios
+moduleid: br.com.leoleal.connectionreporter
+guid: 52632492-7d76-457e-989b-bcb98ac0ed81
+platform: iphone
+minsdk: 3.3.0.GA

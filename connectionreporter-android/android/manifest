@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: connectionreporter-android
+author: Leonardo Leal
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: connectionreporter-android
+moduleid: br.com.leoleal.connectionreporter
+guid: ee43de6c-9c8f-48cb-98d1-d1a60e2454d5
+platform: android
+minsdk: 3.3.0.GA
