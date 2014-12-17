@@ -10,9 +10,9 @@ HOW TO USE
 -------------------------
 If you want to simply use this module, just download the dist/modules folder and copy It's contents under the Titanium SDK modules folder in you computer.
 
-The module will be selectable in you Titanium project with compatibility for both iOS and Android Platforms.
+The module will be selectable in your Titanium project with compatibility for both iOS and Android Platforms.
 The module exposes a method .getConnectionType() that returns a String with the name of the Network Type.
 
 Possible names are None, Unknown, Unknown Network, Unknown Mobile, GPRS, EDGE, CDMA, UMTS, 2G, EVDO, HSPA, HSDPA, HSUPA, HSPA+, 3G, LTE, 4G and Wifi
 
-You can use this method at any time in runtime to consult the network state, but It's recommnded to put It on a Ti.Network change event.
+You can use this method at any time during runtime to check the network state, but It's recommended to put It on a Ti.Network change event.
