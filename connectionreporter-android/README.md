@@ -5,7 +5,7 @@ This project is the source for the Android version of the module. It's a JAVA Ti
 
 CAUTION
 -------------------------
-When Titanium Studio creates a Mobile project, It contains some files pointing directly to the local harddrive under the user directory, so just downlownding this project and importing to TiStudio(short for Titanium Studio) won't work, cause ths project files point to a "lleal" folder inside my computer.
+When Titanium Studio creates a Mobile project, It contains some files pointing directly to the local harddrive under the user directory, so just downloading this project and importing to TiStudio(short for Titanium Studio) won't work, cause this project has files pointing to a "lleal" folder inside my computer. That's a problem with TiStudio.
 
 Look for references to this specific folder and edit the files for a proper use of the project's source code and successful build.
 
