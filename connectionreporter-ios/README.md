@@ -1,4 +1,4 @@
-Connection Reporter - Android Module
+Connection Reporter - iOS Module
 ====================================
 
 This project is the source for the iOS version of the module. It's a XCode Titanium Mobile Module Project for the Titanium Studio.
